@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "BacklogView.deleteTask(task:):BacklogView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.tasks.count()">
+            </PersistentString>
+            <PersistentString
+               value = "realm.objects(Task.self)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in BacklogView.body.getter:BacklogView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.tasks.count()">
+            </PersistentString>
+            <PersistentString
+               value = "tasks.count()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
